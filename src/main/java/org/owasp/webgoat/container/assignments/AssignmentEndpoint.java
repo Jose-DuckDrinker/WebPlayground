@@ -4,4 +4,7 @@
  */
 package org.owasp.webgoat.container.assignments;
 
+/**
+ * Marks an endpoint that serves assignments.
+ */
 public interface AssignmentEndpoint {}
